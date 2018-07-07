@@ -32,7 +32,7 @@ which proved successful in generating good policies for the three environments.
 
 Dependencies:
 =============
-* `OpenAI Gym`_ (see installation note below)
+* `OpenAI Gym <https://github.com/openai/gym>`_ (see installation note below)
 * `Numpy <http://www.numpy.org>`_
 * `NNKit <https://github.com/saldavonschwartz/nnkit>`_
 * `matplotlib <www.apple.com>`_ (if you want to plot training stats).
