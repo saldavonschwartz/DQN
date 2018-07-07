@@ -1,0 +1,4 @@
+nnkit
+numpy
+gym
+matplotlib
